@@ -30,9 +30,4 @@
     </types>
     <version>44.0</version>
 </Package>
-    <types>
-        <members>*</members>
-        <name>StaticResource</name>
-    </types>
-    <version>44.0</version>
-</Package>
+    
